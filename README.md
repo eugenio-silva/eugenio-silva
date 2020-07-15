@@ -4,17 +4,17 @@
 - 🔭 I’m currently looking for a job.
 
 #### I use the following technologies: 
-                                        *Javascript
-                                        *Node
-                                        *React
-                                        *Next
-                                        *Jest
-                                        *MongoDB
-                                        *mysql
-                                        *Postgresql
-                                        *Firebase
-                                        *Tailwind
-                                        *Bootstrap
+*Javascript
+*Node
+*React
+*Next
+*Jest
+*MongoDB
+*mysql
+*Postgresql
+*Firebase
+*Tailwind
+*Bootstrap
 
 
 
