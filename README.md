@@ -4,6 +4,7 @@
 - 🔭 I’m currently looking for a job.
 
 #### I use the following technologies: 
+
 * Javascript
 * Typescript
 * Node
@@ -12,7 +13,7 @@
 * MongoDB
 * mysql
 * Postgresql
-* Firebase
+
 
 
 
