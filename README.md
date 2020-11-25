@@ -9,6 +9,8 @@
 - Typescript
 - Node
 - React.js
+- NextJs
+- NestJs
 - React.Native
 - MongoDB
 - mysql
