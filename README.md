@@ -11,11 +11,10 @@
 - React.js
 - NextJs
 - NestJs
-- React.Native
 - MongoDB
 - mysql
 - Postgresql
-- PHP
+-
 
 
 
