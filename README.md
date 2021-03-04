@@ -14,7 +14,8 @@
 - MongoDB
 - mysql
 - Postgresql
--
+
+![Lucas Silva github stats](https://github-readme-stats.vercel.app/api?username=eugenio-silva&show_icons=true&theme=radical)
 
 
 
