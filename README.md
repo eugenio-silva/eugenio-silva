@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 💬 I'm a Software developer
+- 💬 I'm a Software developer. I am passionate about technology, innovation and challenges.
 
 ---
 
-#### I use the following technologies: 
+### I use the following technologies: 
 
 - Javascript
 - Typescript
