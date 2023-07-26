@@ -1,19 +1,21 @@
-### Hi there 👋
+# Hello, fellow developers! 👋
 
-- 💬 I'm a Software developer. I am passionate about technology, innovation and challenges.
+## About Me
 
----
+I'm Lucas, a technology enthusiast with a passion for building exciting software solutions. My journey in the world of programming has been marked by curiosity, determination, and a genuine love for creating innovative applications.
 
-### I use the following technologies: 
+## Tech Enthusiast 💻
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp; ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp; ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp; ![NODE.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp; ![TYPSCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp; ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp; ![MYSQL](https://img.shields.io/badge/Mysql-316192?style=for-the-badge&logo=mysql&logoColor=white)&nbsp; ![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp; ![GIT](https://img.shields.io/badge/Next-007ACC?style=for-the-badge&logo=next&logoColor=white)&nbsp; ![GIT](https://img.shields.io/badge/React-007ACC?style=for-the-badge&logo=react&logoColor=white)&nbsp;
+From a young age, I found myself drawn to the captivating world of technology. Exploring various programming languages and frameworks, I soon discovered my true love for JavaScript/TypeScript. These languages empower me to craft dynamic, efficient, and user-friendly web applications.
 
----
+## Proficient in JavaScript/TypeScript 🔥
 
+Over the years, I've honed my skills in JavaScript and TypeScript, mastering their nuances and best practices. Leveraging the power of these languages, I've successfully brought several projects to life, ranging from web applications to interactive user interfaces.
 
-![Lucas Silva github stats](https://github-readme-stats.vercel.app/api?username=eugenio-silva&show_icons=true&theme=radical)
+## Current Focus: Rust and Lua 🚀
 
+Recently, my curiosity led me to delve into Rust and Lua. As I embraced the world of Neovim, I found myself deeply intrigued by the potential of Rust for system-level programming and Lua for scripting within Neovim. The combination of these languages has given me a new perspective on how I approach problem-solving and development.
 
+Let's embark on this incredible journey together! Happy coding! 🚀
 
-
-
+ps: "Until the chat-GPT creates a good README." lol
