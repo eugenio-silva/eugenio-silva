@@ -12,10 +12,8 @@ From a young age, I found myself drawn to the captivating world of technology. E
 
 Over the years, I've honed my skills in JavaScript and TypeScript, mastering their nuances and best practices. Leveraging the power of these languages, I've successfully brought several projects to life, ranging from web applications to interactive user interfaces.
 
-## Current Focus: Rust and Lua 🚀
+## Current Focus: Rust and Go 🚀
 
-Recently, my curiosity led me to delve into Rust and Lua. As I embraced the world of Neovim, I found myself deeply intrigued by the potential of Rust for system-level programming and Lua for scripting within Neovim. The combination of these languages has given me a new perspective on how I approach problem-solving and development.
+Recently, my curiosity led me to delve into Rust and Go. As I embraced the world of Neovim, I found myself deeply intrigued by the potential of Rust for system-level programming and Lua for scripting within Neovim. The combination of these languages has given me a new perspective on how I approach problem-solving and development.
 
 Let's embark on this incredible journey together! Happy coding! 🚀
-
-ps: "Until the chat-GPT creates a good README." lol
